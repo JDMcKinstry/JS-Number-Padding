@@ -10,7 +10,7 @@ Use as simple as:
 	padInt(2, -3) === 2000;
 	padInt(2) === "02";
 
-|OR|
+**|** *OR* **|**
 
 	Number(2).pad(3) === "0002";
 	Number(2).pad(-3) === 2000;
